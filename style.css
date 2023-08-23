@@ -8,3 +8,11 @@ p {
 .paragrafo_vermelho {
   color:red;
 }
+.emlinha {
+  display:inline;
+  border: 1px solid red;
+  margin: 0px;
+}
+.embloco {
+  display:block;
+}
