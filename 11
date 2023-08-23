@@ -11,7 +11,7 @@
     	<h1>This is a Heading</h1>
         <h1> segundo h1</h1>
         <p>This is a paragraph.</p>
-        <p class="paragrafo vermelho">This is a paragraph 2.</p>
+        <p class="paragrafo_vermelho">This is a paragraph 2.</p>
         <p>This is a paragraph 3.</p>
         <a href="segundaPagina.html">Ir para segunda pagina</a>
         <br/>
