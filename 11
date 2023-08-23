@@ -10,9 +10,12 @@
     </style>
     	<h1>This is a Heading</h1>
         <h1> segundo h1</h1>
+	<div class="emlinha">div1</div>
         <p>This is a paragraph.</p>
         <p class="paragrafo_vermelho">This is a paragraph 2.</p>
+	<div class="emlinha">div2</div>
         <p>This is a paragraph 3.</p>
+	<div class="emlinha">div3</div>
         <a href="segundaPagina.html">Ir para segunda pagina</a>
         <br/>
         <a href="https://www.google.com">Ir para Google</a>
