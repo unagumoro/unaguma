@@ -6,5 +6,5 @@ p {
   color: black;
 }
 .paragrafo_vermelho {
-  color: red;
+  color:red;
 }
