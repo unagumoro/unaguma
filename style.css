@@ -10,8 +10,8 @@ p {
 }
 .emlinha {
   display:inline;
-  border: 1px solid red;
-  margin: 0px;
+  border: 50px solid red;
+  margin: 5px;
 }
 .embloco {
   display:block;
