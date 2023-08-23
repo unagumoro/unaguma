@@ -1,0 +1,10 @@
+h1 {
+  color: blueviolet;
+}
+
+p {
+  color: black;
+}
+.paragrafo_vermelho {
+  color:red;
+}
