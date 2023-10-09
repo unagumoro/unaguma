@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Page Title</title>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body style="background-color:darkblue; text-align: center;">
+
+<h1 style="color:greenyellow; font-size: 100px; font-family: Dancing Script;">GroomSaloon</h1>
+
+<p style="color:greenyellow; font-family: 'Brush Script MT', cursive;">
+Bem-vindo ao GroomSaloon!
+<br>
+Nós somos uma plataforma online que informa e divulga serviços de estética e saúde para seus bichanos.
+</p>
+
+<img src="https://artpoin.com/wp-content/uploads/2023/09/artpoin-cachorrinho38.png" width="210" height="200"/>
+
+</body>
+</html>
