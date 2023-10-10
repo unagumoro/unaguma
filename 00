@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<meta charset="UTF-8">
+<title>Page Title</title>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Young+Serif&display=swap" rel="stylesheet">
+</head>
+
+<body background="https://static.vecteezy.com/system/resources/previews/003/560/611/non_2x/seamless-pattern-with-dog-or-cat-pet-paw-silhouette-and-hearts-simple-flat-illustration-background-kitten-or-puppy-trace-backdrop-for-pet-shop-breeder-pet-adoption-vector.jpg">
+
+<body style="text-align: center;">
+
+<h1 style="color:greenyellow; font-size: 200px; font-family: Dancing Script;">GroomSaloon</h1>
+
+<p style="color:greenyellow; font-size: 30px; font-family: Permanent Marker, cursive;">
+Bem-vindo ao GroomSaloon!
+<br>
+Nós somos uma plataforma online que informa e divulga serviços de estética e saúde para seus bichanos.
+<br>
+Sabemos o quão importante é o bem-estar dos pets para seus donos, e que infelizmente muitos não possuem as informações suficientes para ter acesso à isso de forma prática e com serviços de qualidade, portanto estamos aqui para ajudar essas pessoas.
+<br>
+<br>
+<img src="https://artpoin.com/wp-content/uploads/2023/09/artpoin-cachorrinho38.png" width="210" height="200"/>
+<br>
+<br>
+</p>
+<div style="border: 5px solid powderblue; background-color:greenyellow;">
+<p style="font-family: Young Serif; color:#990099; font-size: 70px;">Confira nosso serviços:
+
+<table style="width:100%; border:1px solid black; font-size: 30px;">
+  <tr>
+    <td><a href="11.html">Banho e Secagem</a></td>
+    <td><a href="22.html">Tosa Criativa</a></td>
+    <td><a href="33.html">Hidratação e Nutrição</a></td>
+  </tr>
+  <tr>
+    <td><a href="44.html">Limpeza de Orelhas</a></td>
+    <td><a href="55.html">Tratamentos de Unhas</a></td>
+    <td><a href="66.html">Limpeza de Glândulas Anais</a></td>
+  </tr>
+  <tr>
+    <td><a href="77.html">Tratamentos de SPA</a></td>
+    <td><a href="88.html">Coloração Temporária</a></td>
+    <td><a href="99.html">Pedicure para Pata</a></td>
+  </tr>
+</table>
+
+</p>
+
+
+</div>
+</p>
+
+</body>
+</html>
